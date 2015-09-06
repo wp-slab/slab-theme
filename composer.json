@@ -1,10 +1,10 @@
 {
-	"name": "wp-slab/slab-wordpress",
-	"description": "The Slab WordPress component.",
+	"name": "wp-slab/slab-theme",
+	"description": "The Slab Theme component.",
 	"type": "wordpress-plugin",
 	"license": "MIT",
 	"keywords": ["slab", "wordpress"],
-	"homepage": "http://www.wp-slab.com/components/wordpress",
+	"homepage": "http://www.wp-slab.com/components/theme",
 	"authors": [{
 		"name": "Luke Lanchester",
 		"email": "luke@lukelanchester.com",

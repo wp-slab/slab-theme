@@ -5,4 +5,4 @@ include 'vendor/wp-slab/slab-core/src/Autoloader.php';
 
 $autoloader = new Slab\Core\Autoloader;
 $autoloader->registerNamespace('Slab\Core', 'vendor/wp-slab/slab-core/src');
-$autoloader->registerNamespace('Slab\WordPress', __DIR__ . '/src');
+$autoloader->registerNamespace('Slab\Theme', __DIR__ . '/src');

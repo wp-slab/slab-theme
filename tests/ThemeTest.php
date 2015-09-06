@@ -2,7 +2,7 @@
 
 use Mockery as m;
 
-use Slab\WordPress\Example;
+use Slab\Theme\Example;
 
 /**
  * Test WordPress
@@ -10,7 +10,7 @@ use Slab\WordPress\Example;
  * @package default
  * @author Luke Lanchester
  **/
-class WordPressTest extends PHPUnit_Framework_TestCase {
+class ThemeTest extends PHPUnit_Framework_TestCase {
 
 
 	/**
@@ -22,7 +22,7 @@ class WordPressTest extends PHPUnit_Framework_TestCase {
 
 		$obj = new Example;
 
-		$this->assertInstanceOf('Slab\WordPress\Example', $obj);
+		$this->assertInstanceOf('Slab\Theme\Example', $obj);
 
 	}
 

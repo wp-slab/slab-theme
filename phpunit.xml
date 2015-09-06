@@ -13,7 +13,7 @@
          verbose="true"
         >
 	<testsuites>
-		<testsuite name="Slab WordPress Test Suite">
+		<testsuite name="Slab Theme Test Suite">
 			<directory suffix="Test.php">./tests</directory>
 		</testsuite>
 	</testsuites>

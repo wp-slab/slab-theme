@@ -1,4 +1,4 @@
-=== Slab WordPress ===
+=== Slab Theme ===
 Contributors: Dachande663
 Donate link: http://www.wp-slab.com
 Tags: slab, framework, dev
@@ -7,12 +7,12 @@ Tested up to: 4.3.0
 Stable tag: master
 License: MIT/Commercial
 
-The Slab WordPress component. Helpers and utilities for common WordPress tasks.
+The Slab Theme component. Helpers and utilities for common theme tasks.
 
 
 == Description ==
 
-The Slab WordPress component. Helpers and utilities for common WordPress tasks. See http://www.wp-slab.com/components/wordpress for more information.
+The Slab Theme component. Helpers and utilities for common theme tasks. See http://www.wp-slab.com/components/theme for more information.
 
 
 == Installation ==
@@ -22,7 +22,7 @@ The Slab WordPress component. Helpers and utilities for common WordPress tasks. 
 
 == Frequently Asked Questions ==
 
-Documentation can be found on the official Slab website, http://www.wp-slab.com/components/wordpress.
+Documentation can be found on the official Slab website, http://www.wp-slab.com/components/theme.
 
 
 == Screenshots ==

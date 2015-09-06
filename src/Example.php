@@ -1,6 +1,6 @@
 <?php
 
-namespace Slab\WordPress;
+namespace Slab\Theme;
 
 /**
  * Example

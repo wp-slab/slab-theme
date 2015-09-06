@@ -1,6 +1,6 @@
-# Slab WordPress [![Build Status](https://travis-ci.org/wp-slab/slab-wordpress.svg)](https://travis-ci.org/wp-slab/slab-wordpress)
+# Slab Theme [![Build Status](https://travis-ci.org/wp-slab/slab-theme.svg)](https://travis-ci.org/wp-slab/slab-theme)
 
-The Slab WordPress component. Helpers and utilities for common WordPress tasks. See http://www.wp-slab.com/components/wordpress for more information.
+The Slab Theme component. Helpers and utilities for common theme tasks. See http://www.wp-slab.com/components/theme for more information.
 
 ## Todo
 

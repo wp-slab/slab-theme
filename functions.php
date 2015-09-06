@@ -1,15 +1,15 @@
 <?php
 
-namespace Slab\WordPress;
+namespace Slab\Theme;
 
 /**
- * Initialize Slab WordPress
+ * Initialize Slab Theme
  *
  * @param Slab\Core\Application
  * @return void
  **/
-function slab_wordpress_init($slab) {
+function slab_theme_init($slab) {
 
-	$slab->autoloader->registerNamespace('Slab\WordPress', SLAB_WORDPRESS_DIR . 'src');
+	$slab->autoloader->registerNamespace('Slab\Theme', SLAB_THEME_DIR . 'src');
 
 }
